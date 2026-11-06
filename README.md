@@ -2,6 +2,9 @@
 
 **UTS Visualisasi Data — Sample Superstore**
 
+## Menjalankan secara Steamlit
+https://ecommersesales-n964bcsbdpepnuinkcd37t.streamlit.app/
+
 ## Deskripsi
 Dashboard interaktif untuk menganalisis performa penjualan, profit, pesanan, kuantitas, kategori produk, wilayah, segmen pelanggan, serta hubungan diskon dan profit.
 
